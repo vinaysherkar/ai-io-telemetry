@@ -30,6 +30,6 @@ In large-scale AI training, high-end accelerators (H100/A100) often sit idle for
 ### 1. Installation
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/ai-io-telemetry.git
+git clone https://github.com/vinaysherkar/ai-io-telemetry.git
 cd ai-io-telemetry
 pip install .
